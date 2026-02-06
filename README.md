@@ -6,6 +6,16 @@ Docsee is a CLI tool that downloads docs from upstream repos, generates compress
 
 Coding agents perform better when they use **retrieval-led reasoning** instead of relying on stale training data. Docsee downloads documentation from GitHub repos, generates a compressed index, and injects it into your `AGENTS.md` — so agents know where to find accurate, version-matched docs.
 
+## Installation
+
+```bash
+# Run directly (no install needed)
+npx docsee <command>
+
+# Or install globally
+npm install -g docsee
+```
+
 ## Quick Start
 
 ```bash
