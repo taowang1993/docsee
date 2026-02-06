@@ -1,6 +1,6 @@
 {
   "name": "docsee",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Keep AGENTS.md docs in sync with upstream repos",
   "type": "module",
   "license": "MIT",
