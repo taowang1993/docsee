@@ -6,7 +6,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/taowang1993/docsee"
+    "url": "git+https://github.com/taowang1993/docsee.git"
   },
   "keywords": [
     "agents-md",
@@ -16,7 +16,7 @@
     "coding-agents"
   ],
   "bin": {
-    "docsee": "./dist/index.cjs"
+    "docsee": "dist/index.cjs"
   },
   "engines": {
     "node": ">=20"
