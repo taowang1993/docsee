@@ -1,0 +1,37 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="1024"
+  height="1024"
+  viewBox="0 0 1024 1024"
+>
+  <defs>
+    <filter id="shadow" x="-50%" y="-50%" width="200%" height="200%">
+      <feDropShadow
+        dx="0"
+        dy="8"
+        stdDeviation="40"
+        flood-color="#000000"
+        flood-opacity="0.3"
+      />
+    </filter>
+  </defs>
+  <rect
+    x="0"
+    y="0"
+    width="1024"
+    height="1024"
+    rx="230"
+    fill="#fafafa"
+    filter="url(#shadow)"
+  />
+  <svg x="128" y="176" width="768" height="672" viewBox="0 0 32 24">
+    <path
+      fill="#0a0a0a"
+      d="M16 0C7.164 0 0 11.844 0 11.844S7.164 24 16 24s16-12.156 16-12.156S24.836 0 16 0zm0 20a8 8 0 1 1 0-16a8 8 0 0 1 0 16z"
+    />
+    <path
+      fill="#0a0a0a"
+      d="M20 12.016a4 4 0 1 1-8 0a4 4 0 0 1 8 0z"
+    />
+  </svg>
+</svg>

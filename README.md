@@ -1,4 +1,6 @@
-# Docsee
+<div align="center">
+  <img src="assets/banner.svg" alt="Docsee" width="100%" />
+</div>
 
 ## What is Docsee
 
