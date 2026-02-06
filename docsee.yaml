@@ -1,0 +1,8 @@
+agents_md: ./AGENTS.md
+sources:
+  - name: ai-sdk
+    repo: vercel/ai
+    path: content/docs
+    branch: main
+    local: ./.docsee/ai-sdk
+    commit: abab9445485635ce7fdd5372e03f0002f536dcdc
