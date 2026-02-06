@@ -88,7 +88,7 @@ sources:
 
 The `commit` field is auto-managed. It tracks the last synced commit SHA so `status` and `diff` can compare against upstream.
 
-## Keeping Docs Up to Date
+## Keeping Docs up to Date
 
 Check if your local docs are behind:
 
@@ -127,7 +127,7 @@ docsee sync
 
 This reads `docsee.yaml` and downloads all docs locally. The whole team stays on the same sources, same versions, same docs — without storing hundreds of files in git.
 
-## Editing docsee.yaml Manually
+## Editing `docsee.yaml` Manually
 
 If you remove a source from `docsee.yaml`, its downloaded docs in `.docsee/` and its index block in `AGENTS.md` are **not** automatically cleaned up. Delete them manually:
 
